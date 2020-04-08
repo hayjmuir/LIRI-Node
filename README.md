@@ -29,5 +29,3 @@
 ![concert-this](https://github.com/hayjmuir/LIRI-Node/blob/master/images/Annotation%202020-04-08%20151916.jpg)
   
   
-
-[LIRI App](https://hayjmuir.github.io/LIRI-Node/)
