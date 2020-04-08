@@ -1,6 +1,6 @@
 require("dotenv").config();
 
-var keys = require("keys.js");
+var keys = require("/Users/haymu/LIRI/LIRI-Node/keys");
 var Spotify = require('node-spotify-api'); //Using the Spotify api and getting the key from keys.js
 var spotify = new Spotify(keys.spotify);
 
