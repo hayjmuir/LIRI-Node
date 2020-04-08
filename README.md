@@ -6,7 +6,7 @@
 
 ## App Commands
 * concert-this "band name here"
-* spotify-this "song name here"
+* spotify-this-song "song name here"
 * movie-this "movie title here"
 * do-what-it-says 
 
@@ -21,6 +21,13 @@
   * Bands in Town API
   * Inqurier
   * Axios 
+  
+![movie-this](https://github.com/hayjmuir/LIRI-Node/blob/master/images/Annotation%202020-04-08%20151641.jpg)
+
+![spotify-this-song](https://github.com/hayjmuir/LIRI-Node/blob/master/images/Annotation%202020-04-08%20151818.jpg)
+
+![concert-this](https://github.com/hayjmuir/LIRI-Node/blob/master/images/Annotation%202020-04-08%20151916.jpg)
+  
   
 
 [LIRI App](https://hayjmuir.github.io/LIRI-Node/)
