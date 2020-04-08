@@ -2,7 +2,7 @@
 
 
 
-# This App is built with Javascript and utilizes Node.js
+### This App is built with Javascript and utilizes Node.js
 
 ## App Commands
 * concert-this "band name here"
@@ -12,4 +12,13 @@
 
 
 
-
+## Technologies Utilized 
+  * JavaScript
+  * Node.Js
+  * Moment.Js
+  * OMDB API
+  * Spotify API
+  * Bands in Town API
+  * Inqurier
+  * Axios 
+  
